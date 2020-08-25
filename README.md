@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on pizzlysoft
+- 🌱 I’m currently learning React and related stuff
+- 🤔 I’m looking for help with design 
+- 💬 Ask me about React, Vuejs, Laravel ...
+
 ## Top Lang
 <a href="https://github.com/vitqst">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitqst&theme=light&hide_langs_below=1" />
