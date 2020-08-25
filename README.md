@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+https://visitor-badge.laobi.icu/badge?page_id=vitqst
+
 <p>🔭 I’m currently working on Pizzlysoft</p>
 <p>🌱 I’m currently learning to become Fullstack Developer</p>
 <p>🤔 I’m looking for help with design UI/UX</p>
