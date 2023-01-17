@@ -19,15 +19,3 @@ Here are some ideas to get you started:
 <p>🌱 I’m currently learning to become Fullstack Developer</p>
 <p>🤔 I’m looking for help with design UI/UX</p>
 <p>💬 Ask me about React, Vuejs, Laravel, Docker ...</p>
-
-## Top Lang
-<a href="https://github.com/vitqst">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitqst&theme=light&hide_langs_below=1" />
-</a>
-
-## Stats  
-<a href="https://github.com/vitqst">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitqst&show_icons=true&theme=light&line_height=27" alt="Vui's github stats"/>
-</a>
-
-<div align="center">
