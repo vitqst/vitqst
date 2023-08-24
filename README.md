@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on pizzlysoft
+- 🔭 I’m currently working on Pascalia Asia
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vitqst"/>
 
-<p>🔭 I’m currently working on Pizzlysoft</p>
+<p>🔭 I’m currently working on Pascalia Asia</p>
 <p>🌱 I’m currently learning to become Fullstack Developer</p>
 <p>🤔 I’m looking for help with design UI/UX</p>
 <p>💬 Ask me about React, Vuejs, Laravel, Docker ...</p>
