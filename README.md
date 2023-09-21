@@ -19,4 +19,4 @@ I have extensive knowledge and experience in web development, using the followin
 - DevOps: AWS ( EC2, S3, ECS/ECR, Lambda function, Step functions, Cloud Watch ), CI/CD ( Team City, Github Action )
 - Python: Flask
 - UI/UX: Figma, Photoshop
-- How to reach me: [vuidx.net](https://vuidx.netlify.app/)https://vuidx.netlify.app/
+- How to reach me: [https://vuidx.netlify.app](https://vuidx.netlify.app/)
