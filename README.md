@@ -16,6 +16,7 @@ I have extensive knowledge and experience in web development, using the followin
 
 - PHP: Laravel, CakePHP
 - JavaScript: VueJS, ReactJS, NuxtJS, NestJs
+- Testing: PHP Unit, Jest
 - DevOps: AWS ( EC2, S3, ECS/ECR, Lambda function, Step functions, Cloud Watch ), CI/CD ( Team City, Github Action )
 - Python: Flask
 - UI/UX: Figma, Photoshop
