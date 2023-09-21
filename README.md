@@ -12,10 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I have extensive knowledge and experience in web development, using the following tools and frameworks:
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=vitqst"/>
-
-<p>🔭 I’m currently working on Pascalia Asia</p>
-<p>🌱 I’m currently learning to become Fullstack Developer</p>
-<p>🤔 I’m looking for help with design UI/UX</p>
-<p>💬 Ask me about React, Vuejs, Laravel, Docker ...</p>
+- PHP: Laravel, CakePHP
+- JavaScript: VueJS, ReactJS, NuxtJS, NestJs
+- DevOps: AWS ( EC2, S3, ECS/ECR, Lambda function, Step functions, Cloud Watch ), CI/CD ( Team City, Github Action )
+- Python: Flask
+- UI/UX: Figma, Photoshop
+- How to reach me: [vuidx.net](https://vuidx.netlify.app/)https://vuidx.netlify.app/
